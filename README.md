@@ -1,4 +1,4 @@
-Windows 10 Thick Borders Theme
+Windows 10 Thick Borders Theme (with disconnected accent color!)
 
 <img width="1579" height="1039" alt="w10-thick-borders-example" src="https://github.com/user-attachments/assets/67b890b8-45e3-4042-9797-448849653b31" />
 
