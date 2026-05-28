@@ -15,6 +15,6 @@ This way you can have disconnected and independent window border-title color (li
 But in order this to be accomplished border color had to be "hard-coded" into .msstyles. 
 
 So if you want some different color than the default yellow, you should -
-1) Edit "atlas-thick-borders.png" at 396,220px with Paint.NET and "hard-code" your wanted color
+1) Edit "w10-thick-borders-atlas.png" at 396,220px with Paint.NET and "hard-code" your wanted color
 2) Replace it in .msstyles in Resource Hacker (resource - STREAM/1269)
 3) Update accent.reg with your wanted color (you can get your color code from registry temporarily setting accent color in Personalize\Colors)
