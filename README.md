@@ -10,7 +10,7 @@ INSTALLATION -
 3) Set your accent color in Personalize\Colors (preferrably some dark color)
 4) Update registry with accent.reg
 
-This way you can have disconnected and independent window border-title color (like some light color - yellow, pink, etc) and accent color (prefferably some dark color). Accent color affect many other colors in many different places (and if set to yellow, for example, effect is no good).
+This way you can have disconnected and independent window border-title color (like some light color - yellow, pink, etc) and accent color (preferrably some dark color). Accent color affect many other colors in many different places (and if set to yellow, for example, effect is no good).
 
 But in order this to be accomplished border color had to be "hard-coded" into .msstyles. 
 
